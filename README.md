@@ -1,2 +1,0 @@
-.
-# Ubuntu-Apache-Server-install
